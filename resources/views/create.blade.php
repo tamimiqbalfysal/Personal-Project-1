@@ -1,1 +1,7 @@
-<h1> User List Page </h1>
+@extends('layout')
+
+@section('content')
+
+<h1> Account Page </h1>
+
+@endsection
